@@ -1,5 +1,5 @@
 using System;
-class Task1
+class №1
 {
     static void PrintDiamond(int height)
     {
